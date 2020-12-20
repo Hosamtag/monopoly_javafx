@@ -1,7 +1,7 @@
-Monopoly
+Monopoly Game
 ====
 
-This project implements a player for multiple related games.
+This project implements multiple variations of Monopoly: Monopoly, Moswapoly (User can swap tiles mid game), Monopoly Junior and Dukeopoly.
 
 Names: Alex Jimenez (ajj29), Hosam Tagel-Din (ht120), Isabella Knox (ik63), Malvika Jain (msj24), James Arnold (jra55)
 
@@ -26,10 +26,10 @@ Malvika Jain (msj24)- data reading and how it should be formatted and passed to 
 
 James Arnold (jra55)  - model and how model relates to factories/controller
 
-![Regular Monopoly](Monopoly_Regular.png)
+![Regular Monopoly](Monopoly_Regular.PNG)
 
 
-![Regular Monopoly](Monopoly_Dark.png)
+![Regular Monopoly](Monopoly_Dark.PNG)
 
 ### Resources Used
 
