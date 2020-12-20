@@ -1,4 +1,4 @@
-final
+Monopoly
 ====
 
 This project implements a player for multiple related games.
@@ -25,6 +25,11 @@ Isabella Knox (ik63) - view and how game alerts occur, game theme styling, dice,
 Malvika Jain (msj24)- data reading and how it should be formatted and passed to work in the controller, model, and view 
 
 James Arnold (jra55)  - model and how model relates to factories/controller
+
+![Regular Monopoly](Monopoly_Regular.png)
+
+
+![Regular Monopoly](Monopoly_Dark.png)
 
 ### Resources Used
 
